@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "imageref",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": "false",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authsmartgoggles2ae1ebb4",
+            "Outputs.UserPoolId"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "sgenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-smartgoggles-sgenv-173832-authRole",
+            "UnauthRoleArn": "arn:aws:iam::517512163784:role/amplify-smartgoggles-sgenv-173832-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::517512163784:role/amplify-smartgoggles-sgenv-173832-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-smartgoggles-sgenv-173832-deployment",
+            "UnauthRoleName": "amplify-smartgoggles-sgenv-173832-unauthRole",
+            "StackName": "amplify-smartgoggles-sgenv-173832",
+            "StackId": "arn:aws:cloudformation:us-east-1:517512163784:stack/amplify-smartgoggles-sgenv-173832/236d98d0-6faa-11ea-b5f2-0a8742d8c83d",
+            "AmplifyAppId": "d26mvdvsw2ldqh"
+        },
+        "categories": {
+            "auth": {
+                "smartgoggles2ae1ebb4": {}
+            }
+        }
+    }
+}
